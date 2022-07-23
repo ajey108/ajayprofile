@@ -1,0 +1,33 @@
+
+body{
+
+    background-color: aquamarine;
+    
+}
+
+#main{
+    background-color:rgb(2, 1, 1) ;
+
+    }
+    #abtm{
+
+        background-color: antiquewhite;
+
+      
+    }
+#para {
+    color:rgb(219, 213, 204)
+
+}
+.mypara{
+    background-color: #af9292;
+}
+.skills{
+    color: ghostwhite;
+}
+#myname{
+    background-color:rgb(47, 173, 231) ;
+}
+.fh{
+    background-color:hsl(0, 80%, 42%) ;
+}
