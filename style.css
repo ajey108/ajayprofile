@@ -4,7 +4,9 @@ body{
     background-color: aquamarine;
     
 }
-
+img {
+    border-radius: 50%;
+}
 #main{
     background-color:rgb(2, 1, 1) ;
 
