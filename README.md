@@ -13,7 +13,7 @@ This is a portfolio app built with React and Tailwind CSS.
 - [License](#license)
 
 ## Demo
-[Live Demo](#) - #ajay108portfolio.netlify.app/
+[Live Demo](#) - [ajay108portfolio.netlify.app/](#)
 
 ## Features
 - Navbar
