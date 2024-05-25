@@ -5,7 +5,7 @@ import { Link } from 'react-scroll';
 
 const Hero = () => {
     return (
-        <div className="bg-gray-900 text-white py-8">
+        <div className="text-white py-8">
             <div className='grid md:grid-cols-2 place-items-center max-w-[1250px] mx-auto mb-8 md:mb-32 mt-14 px-4'>
                 <div className='max-w-[800px] text-center md:text-left'>
                     <p className='text-gray-200 md:text-6xl text-3xl tracking-tight'>
@@ -53,7 +53,11 @@ const Hero = () => {
 
                 <img src={profilepic} alt='Profile Picture of Ajay Kumar' className='w-[200px] md:w-[400px] rounded-full shadow-lg' />
             </div>
+
+            <hr />
         </div>
+
+        
     );
 }
 
