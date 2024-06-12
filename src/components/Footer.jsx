@@ -7,10 +7,10 @@ const Footer = () => {
       <div className='space-y-4'>
         <h3 className='text-2xl text-gray-200 font-semibold'>Ajay</h3>
         <div className='flex flex-row gap-6 text-gray-400 text-4xl'>
-          <a href='https://github.com/yourusername' aria-label='Github Profile'>
+          <a href='https://github.com/yourusername' aria-label='Github Profile' className="text-gray-700 hover:text-gray-900 transition-colors duration-200">
             <FaGithub />
           </a>
-          <a href='https://linkedin.com/in/yourusername' aria-label='LinkedIn Profile'>
+          <a href='https://linkedin.com/in/yourusername' aria-label='LinkedIn Profile' className="text-gray-700 hover:text-gray-900 transition-colors duration-200">
             <FaLinkedin />
           </a>
         </div>

@@ -6,7 +6,7 @@ const Contact = () => {
     <div className='px-6 max-w-[1000px] mx-auto glass grid md:grid-cols-2 place-items-center' id="contact">
       <ul className='my-auto pr-6'>
         <li className='flex'>
-          <a href='https://www.linkedin.com/in/ajay-kumar-016b56242/' target='_blank' rel='noopener noreferrer'>
+          <a href='https://www.linkedin.com/in/ajay-kumar-016b56242/' target='_blank' rel='noopener noreferrer'className="text-gray-700 hover:text-gray-800 transition-colors duration-400">
             <AiFillLinkedin className='w-[70px] h-auto text-gray-300' />
           </a>
           <div className='m-5'>
