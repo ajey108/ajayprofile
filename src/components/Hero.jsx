@@ -1,5 +1,5 @@
 import React from 'react';
-import profilepic from '../assets/profilepic.png';
+import profilePic from '../assets/profilePic.jpg';
 import { TypeAnimation } from 'react-type-animation';
 import { Link } from 'react-scroll';
 
@@ -51,7 +51,7 @@ const Hero = () => {
                     </div>
                 </div>
 
-                <img src={profilepic} alt='Profile Picture of Ajay Kumar' className='w-[200px] md:w-[400px] rounded-full shadow-lg' />
+                <img src={profilePic} alt='Profile Picture of Ajay Kumar' className='w-[200px] md:w-[400px] rounded-full shadow-lg' />
             </div>
 
             <hr />
